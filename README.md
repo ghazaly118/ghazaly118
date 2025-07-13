@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Ghazaly
 
-<!--
-**ghazaly118/ghazaly118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ Ain Shams University & East London University  
+💻 Full-stack developer | Open Source Contributor  
+🎯 Passionate about Machine Learning, Security, and Web Development  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: Python, JavaScript, PHP, C++
+- Web: HTML, CSS, React, Laravel
+- Tools: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Open Source Contributions
+- 📦 [openai/gym](https://github.com/openai/gym) – Improved documentation and fixed bugs
+- 🛠️ [someuser/project](https://github.com/someuser/project) – Added authentication module
+
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedghazaly&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/ahmedghazaly](https://linkedin.com/in/ahmedghazaly)
+- Email: you@example.com
