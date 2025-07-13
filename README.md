@@ -27,23 +27,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedghazaly&show_icons=true&theme=radical" alt="ghazaly's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedghazaly&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedghazaly&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
