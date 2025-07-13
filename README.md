@@ -1,46 +1,51 @@
-# Hi there 👋, I'm Ahmed Ghazaly
+<h1 align="center">Hi 👋, I'm Ahmed Ghazaly</h1>
+<h3 align="center">CS Student | Full-Stack Developer | Open Source Contributor</h3>
 
-🎓 CS Student @ Ain Shams University & East London University  
-💻 Full-stack developer | Open Source Contributor  
-🎯 Passionate about Machine Learning, Security, and Web Development  
+---
 
-## 🔧 Skills
-- Languages: Python, JavaScript, PHP, C++
-- Web: HTML, CSS, React, Laravel
-- Tools: Git, Docker, VS Code
+### 🧠 Languages & Technologies
 
-## 💻 Languages & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-### 🧠 Programming Languages
-- Python 🐍
-- Java ☕
-- C++
-- JavaScript
-- PHP
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
-### 🌐 Web Development
-- HTML5 / CSS3
-- React.js ⚛️
-- Laravel
-- Bootstrap
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 📦 Tools & Frameworks
-- Git & GitHub
-- VS Code / IntelliJ / Eclipse
-- Docker 🐳
-- MySQL / PostgreSQL
+---
 
-### 🤖 Machine Learning & AI
-- NumPy / Pandas
-- OpenCV
-- Scikit-learn
-- TensorFlow (basic)
+### 📈 GitHub Stats & Activity
 
-### 🛡️ Cybersecurity Exposure
-- Linux CLI Tools
-- Wireshark
-- Participated in Cybrus Club Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedghazaly&show_icons=true&theme=radical" alt="ghazaly's GitHub stats"/>
+</p>
 
-## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/ahmedghazaly](www.linkedin.com/in/ahmedelghazaly11)
-- Email: you@example.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedghazaly&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedghazaly&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedghazaly&theme=radical&column=7"/>
+</p>
