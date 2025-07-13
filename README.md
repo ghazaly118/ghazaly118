@@ -9,13 +9,38 @@
 - Web: HTML, CSS, React, Laravel
 - Tools: Git, Docker, VS Code
 
-## 📂 Open Source Contributions
-- 📦 [openai/gym](https://github.com/openai/gym) – Improved documentation and fixed bugs
-- 🛠️ [someuser/project](https://github.com/someuser/project) – Added authentication module
+## 💻 Languages & Technologies
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedghazaly&show_icons=true&theme=radical)
+### 🧠 Programming Languages
+- Python 🐍
+- Java ☕
+- C++
+- JavaScript
+- PHP
+
+### 🌐 Web Development
+- HTML5 / CSS3
+- React.js ⚛️
+- Laravel
+- Bootstrap
+
+### 📦 Tools & Frameworks
+- Git & GitHub
+- VS Code / IntelliJ / Eclipse
+- Docker 🐳
+- MySQL / PostgreSQL
+
+### 🤖 Machine Learning & AI
+- NumPy / Pandas
+- OpenCV
+- Scikit-learn
+- TensorFlow (basic)
+
+### 🛡️ Cybersecurity Exposure
+- Linux CLI Tools
+- Wireshark
+- Participated in Cybrus Club Activities
 
 ## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/ahmedghazaly](https://linkedin.com/in/ahmedghazaly)
+- LinkedIn: [linkedin.com/in/ahmedghazaly](www.linkedin.com/in/ahmedelghazaly11)
 - Email: you@example.com
